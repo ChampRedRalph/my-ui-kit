@@ -85,6 +85,7 @@
         <a href="#utilities" class="list-group-item list-group-item-action"><i class="bi bi-sliders me-2"></i>Utilities</a>
         <a href="login.php" class="list-group-item list-group-item-action"><i class="bi bi-box-arrow-in-right me-2"></i>Login</a>
         <a href="404.php" class="list-group-item list-group-item-action"><i class="bi bi-exclamation-triangle me-2"></i>404 Page</a>
+        <a href="blank.php" class="list-group-item list-group-item-action"><i class="bi bi-file-earmark me-2"></i>Blank Page</a>
       </div>
     </aside>
 
