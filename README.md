@@ -1,4 +1,4 @@
-# My UI Kit - RedRalph
+# My UI Kit - ChampRedRalph
 
 A simple, customizable admin dashboard UI kit built with plain HTML, CSS, JavaScript, and Bootstrap.
 
